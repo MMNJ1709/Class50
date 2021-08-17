@@ -1,0 +1,33 @@
+h1{
+    background-color:orange;
+    color:darkred;
+    text-align:center;
+}
+p{
+    text-align: center;
+    color:maroon
+}
+h2{
+    text-align: center;
+    color:black;
+}
+.menu{
+    background-color:yellow;
+    display:flex;
+    justify-content:flex-end
+}
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+    background-color:beige ;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
